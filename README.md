@@ -7,7 +7,7 @@ Application that can take screenshots and resize them as you want.
 <h1>Features</h1>
 ⦁ Take Screenshot
  </br>
- ⦁ Upload to specific Website [Example Website Template](https://github.com/iEpog/upload-website/)
+ ⦁ Upload to specific Website | <a href="https://github.com/iEpog/upload-website"> ❤️Example Website Template ❤️</a>)
  <br>
 ⦁ Resize
  </br>
